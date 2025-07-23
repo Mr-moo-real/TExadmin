@@ -1,0 +1,13 @@
+{
+  "name": "Scenario 1",
+  "messages": [
+    {
+      "text": "Scene",
+      "replies": [
+        "cut the cameras",
+        "keep the cameras rolling"
+      ],
+      "correct": 0
+    }
+  ]
+}
